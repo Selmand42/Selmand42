@@ -3,19 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      background-color: #f0f0f0; /* Optional: Set a background color */
-    }
-    .profile-container {
-      text-align: center;
-    }
-  </style>
+  
 </head>
 <body>
 
