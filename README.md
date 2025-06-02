@@ -1,51 +1,48 @@
-# Hi there! 👋 I'm Selman Demir
-
-![Visitor Count](https://komarev.com/ghpvc/?username=selmand42&color=blue&style=flat)
+# Hi there!  I'm Selman Demir
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineering Student** at [42 School](https://42.fr/), where I'm diving deep into the world of programming through hands-on, project-based learning. 42's unique peer-to-peer education model has taught me not just how to code, but how to think critically, solve complex problems, and collaborate effectively with others.
+Software Engineering Student at **42 School** | Passionate about **Machine Learning**, **Data Science**, and **System Programming**
 
-## 🎯 What I'm Focused On
+Currently exploring the intersection of low-level programming and AI/ML technologies through hands-on projects and peer-to-peer learning.
 
-- 🌱 **Currently Learning:** Advanced **C programming**, **UNIX systems**, and **algorithmic thinking**
-- 🔧 **Core Technologies:** C, Shell scripting, System programming
-- 💡 **Problem Solving:** Algorithms, data structures, and optimization
-- 🤝 **Collaborative Learning:** Peer programming and code reviews at 42
+## 🎯 Focus Areas
 
-## 💻 Tech Stack
+**🤖 Machine Learning & Data Science**
+- Data analysis and visualization
+- Introduction to Data Science (Mat381)
+- Statistical modeling and algorithms
 
+**💻 System Programming**
+- C/C++ development and optimization
+- UNIX systems and shell programming
+- Game engines and graphics programming
+- Warehouse management systems
+
+**🛠️ Problem Solving**
+- Algorithm design and implementation
+- Multithreading and parallel processing
+- Data structures and optimization
+
+## 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌟 42 School Journey
-
-As a student at 42, I'm part of an innovative educational ecosystem that emphasizes:
-- **Self-directed learning** and autonomy
-- **Peer-to-peer collaboration** and knowledge sharing
-- **Real-world problem solving** through practical projects
-- **Community-driven development** and mutual support
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selmand42&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmand42&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selmand42&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmand42&layout=compact&theme=vision-friendly-dark&hide_border=true" height="180" />
 </div>
 
-## 🔗 Let's Connect!
+## 🌐 Connect
 
-I'm always excited to connect with fellow developers, students, and anyone passionate about technology and learning!
-
-[![Website](https://img.shields.io/badge/Website-selmandemir.com-blue?style=for-the-badge)](https://selmandemir.com)
-[![42 Profile](https://img.shields.io/badge/42_Profile-selmand42-black?style=for-the-badge)](https://profile.intra.42.fr/users/selmand42)
+[![Website](https://img.shields.io/badge/selmandemir.com-0077B5?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://selmandemir.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/selmand42)
 
 ---
-
-💬 **"The best way to learn is by doing, and the best way to grow is by sharing knowledge with others."**
-
-*Happy coding! 🚀*
+💡 *"Bridging the gap between systems programming and intelligent solutions"*
