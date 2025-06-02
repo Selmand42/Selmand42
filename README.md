@@ -1,4 +1,4 @@
-# Hi there! �� I'm Selman Demir
+# Hi there! I'm Selman Demir
 
 ## 🚀 About Me
 
