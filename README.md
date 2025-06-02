@@ -1,4 +1,4 @@
-# Hi there!  I'm Selman Demir
+# Hi there! �� I'm Selman Demir
 
 ## 🚀 About Me
 
@@ -35,8 +35,8 @@ Currently exploring the intersection of low-level programming and AI/ML technolo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selmand42&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmand42&layout=compact&theme=vision-friendly-dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selmand42&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmand42&layout=compact&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&hide=jupyter%20notebook,html,css,makefile&langs_count=6" height="180" />
 </div>
 
 ## 🌐 Connect
